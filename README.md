@@ -11,6 +11,11 @@ Installation
 
 Grab the `gecco2as.py` script from GitHub, it will run with Python 3.6 and newer and has no dependencies.
 
+```
+curl https://raw.githubusercontent.com/kblin/gecco2as/main/gecco2as.py > gecco2as.py
+chmod a+x gecco2as.py
+```
+
 
 Running
 -------
